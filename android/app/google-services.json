@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "80659137418",
+    "project_id": "lo-fi-radio-71716",
+    "storage_bucket": "lo-fi-radio-71716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80659137418:android:c45e1ba8d10fa1d616fe73",
+        "android_client_info": {
+          "package_name": "com.lofi.radio.lo_fi_radio_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80659137418-5rslo2psmps7tl7tl3ff33i35s4f55hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lofi.radio.lo_fi_radio_app",
+            "certificate_hash": "bfbcf96f1da5d662d62e61fe59a4c75c8d880792"
+          }
+        },
+        {
+          "client_id": "80659137418-dqp9knol2mdpu5uikd6u7ldkeinbh5ir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lofi.radio.lo_fi_radio_app",
+            "certificate_hash": "a44843d96243829001669fa7aa4f5486f6d6bf8c"
+          }
+        },
+        {
+          "client_id": "80659137418-ud5l8k7he8ei8iro8jrd86e0cssq0jos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVcq9HQxjPm0MQ4NlXC5EP5woi8vC90iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80659137418-ud5l8k7he8ei8iro8jrd86e0cssq0jos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
