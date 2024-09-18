@@ -63,7 +63,7 @@ class LayoutCubit extends Cubit<HomeStates> {
     return AudioSource.uri(Uri.parse(CacheHelper.GetData(key: 'channel') == 0
         ? 'https://usa9.fastcast4u.com/proxy/jamz?mp=/1'
         : CacheHelper.GetData(key: 'channel') == 1
-            ? 'http://streams.dez.ovh:8000/radio.mp3'
+            ? 'https://play.streamafrica.net/lofiradio'
             : CacheHelper.GetData(key: 'channel') == 2
                 ? 'https://stream-161.zeno.fm/3u1qndyk8rhvv?zs=S-PmFX-8RAOsp7kjMnpRtg'
                 : 'https://lfhh.radioca.st/stream'));
