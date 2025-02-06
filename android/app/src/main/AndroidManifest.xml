@@ -7,6 +7,7 @@
         android:usesCleartextTraffic="true"
         android:label="Lo-Fi Radio"
         android:icon="@mipmap/ic_launcher">
+
        <meta-data
            android:name="com.google.android.gms.ads.APPLICATION_ID"
            android:value="ca-app-pub-3153087271257954~6314780963"/>
